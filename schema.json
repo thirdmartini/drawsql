@@ -1,0 +1,9 @@
+{
+  "*": {
+    "customer_id": "customers",
+    "device_id":   "devices",
+  },
+  "users": {
+    "customer": "customers"
+  }
+}
